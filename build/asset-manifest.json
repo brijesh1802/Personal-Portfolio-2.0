@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58a0c615.css",
+    "main.js": "/static/js/main.c684718c.js",
+    "static/media/HeroImage.jpg": "/static/media/HeroImage.6a5aeb13963f21a1b1c3.jpg",
+    "static/media/ymgm-logo.jpg": "/static/media/ymgm-logo.b5f8afa06737d3815db4.jpg",
+    "index.html": "/index.html",
+    "main.58a0c615.css.map": "/static/css/main.58a0c615.css.map",
+    "main.c684718c.js.map": "/static/js/main.c684718c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.c684718c.js"
+  ]
+}
