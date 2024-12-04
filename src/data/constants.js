@@ -4,14 +4,14 @@ import mgmLogo from '../images/ymgm-logo.jpg';
 export const Bio = {
   name: "Brijesh Poojary",
   roles: [
-    "Full Stack Developer",
+    "Full Stack Dev",
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "From Udupi, Karnataka",
   github: "https://github.com/brijesh1802",
   resume:
-    "https://drive.google.com/file/d/1GHa2EE7Xlfyfm7kCnZ_YLT37IKMXhWaw/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1GHa2EE7Xlfyfm7kCnZ_YLT37IKMXhWaw/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/brijesh-poojary-34090421b/",
   twitter: "https://x.com/brijesh_p3"
 };
