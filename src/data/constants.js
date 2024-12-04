@@ -11,7 +11,7 @@ export const Bio = {
     "From Udupi, Karnataka",
   github: "https://github.com/brijesh1802",
   resume:
-    "https://drive.google.com/file/d/1GHa2EE7Xlfyfm7kCnZ_YLT37IKMXhWaw/view?usp=drive_link",
+    "https://drive.google.com/file/d/1yoqkbZTV5bkvjpBdhtgKy5-LmwXtoDJo/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/brijesh-poojary-34090421b/",
   twitter: "https://x.com/brijesh_p3"
 };
