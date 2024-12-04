@@ -230,10 +230,10 @@ const Hero = () => {
             <HeroLeftContainer>
               <motion.div {...headTextAnimation}>
                 <Title>
-                  Hi, I am <br /> {Bio.name}
+                  Hey 👋, I am <br /> {Bio.name}
                 </Title>
                 <TextLoop>
-                  I am a
+                  A
                   <Span>
                     <Typewriter
                       options={{
