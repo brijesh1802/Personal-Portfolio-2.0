@@ -160,7 +160,7 @@ export const projects = [
     date: "Dec 2024 - Jan 2025",
     description:
       "CodeDepot is a full-stack MERN application that enables users to search for GitHub profiles, view their repositories, like profiles, and explore popular repositories. It integrates GitHub OAuth for authentication, ensuring a secure and seamless user experience.",
-    image: "https://github.com/brijesh1802/Projects-Images/blob/main/CodePot.png",
+    image: "https://github.com/brijesh1802/Projects-Images/blob/main/CodePot.png?raw=true",
     tags: ["React.Js", "TailwindCSS", "Node.Js","Passport.Js","MongoDB"],
     category: "Full Stack Development",
     github: "https://github.com/brijesh1802/CodeDepot",
@@ -172,7 +172,7 @@ export const projects = [
     date: "Jan 2025 - Jan 2025",
     description:
       "CreateStackx is a CLI tool that helps you quickly initialize full-stack projects. It allows you to create both frontend (React with Vite) and backend (Node.js with Express) projects with customizable dependencies, enabling you to kickstart your development with minimal setup.",
-    image: "https://github.com/brijesh1802/Projects-Images/blob/main/createstackx.png",
+    image: "https://github.com/brijesh1802/Projects-Images/blob/main/createstackx.png?raw=true",
     tags: ["Node.Js","Commander.Js","Inquirer.Js"],
     category: "NPM Package",
     github: "https://github.com/brijesh1802/CreateStackx",
@@ -184,7 +184,7 @@ export const projects = [
     date: "Dec 2025 - Dec 2025",
     description:
       "A powerful and intuitive Command-Line Interface (CLI) tool for cryptocurrency enthusiasts and developers. This tool enables users to check real-time cryptocurrency prices, filter them by preferred currencies (e.g., USD, JPY, EUR), and view the top 5 or 20 cryptocurrencies based on their price.",
-    image: "https://github.com/brijesh1802/Projects-Images/blob/main/cryptocli.webp",
+    image: "https://github.com/brijesh1802/Projects-Images/blob/main/cryptocli.webp?raw=true",
     tags: ["Node.Js","Express.Js","Commander.Js","Inquirer.Js"],
     category: "NPM Package",
     github: "https://github.com/brijesh1802/Crypto-CLI",
@@ -232,7 +232,7 @@ export const projects = [
     date: "May 2024 - May 2024",
     description:
       "WebCodeLab lets you write and test HTML, CSS, and JavaScript code in real-time with a sleek interface. Perfect for quick prototypes.",
-    image: "https://github.com/brijesh1802/Projects-Images/blob/main/webcodelab.png", 
+    image: "https://github.com/brijesh1802/Projects-Images/blob/main/webcodelab.png?raw=true", 
     tags: ["HTML", "CSS", "Javascript"],
     category: "backend development",
     github: "https://github.com/brijesh1802/WebCodeLab",
@@ -256,7 +256,7 @@ export const projects = [
     date: "Oct 2023 - Nov 2023",
     description:
       "Vertica is a sleek and responsive shopping frontend, meticulously crafted with HTML, CSS, and JavaScript. Elevate your online shopping experience with its user-friendly design, making it easy to browse and discover your favorite products. With a focus on simplicity and elegance, Vertica brings a seamless and enjoyable shopping journey to users.",
-    image: "https://github.com/brijesh1802/Projects-Images/blob/main/vertica.png", 
+    image: "https://github.com/brijesh1802/Projects-Images/blob/main/vertica.png?raw=true", 
     tags: ["HTML", "CSS", "Javascript"],
     category: "FrontEnd Development",
     github: "https://github.com/brijesh1802/Vertica",
