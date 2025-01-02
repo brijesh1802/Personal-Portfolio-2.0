@@ -156,6 +156,42 @@ export const education = [
 export const projects = [
   {
     id: 1,
+    title: "CodeDepot",
+    date: "Dec 2024 - Jan 2025",
+    description:
+      "CodeDepot is a full-stack MERN application that enables users to search for GitHub profiles, view their repositories, like profiles, and explore popular repositories. It integrates GitHub OAuth for authentication, ensuring a secure and seamless user experience.",
+    image: "https://github.com/brijesh1802/Projects-Images/blob/main/CodePot.png",
+    tags: ["React.Js", "TailwindCSS", "Node.Js","Passport.Js","MongoDB"],
+    category: "Full Stack Development",
+    github: "https://github.com/brijesh1802/CodeDepot",
+    webapp: "https://codedepot.onrender.com/",
+  },
+  {
+    id: 2,
+    title: "CreateStackx",
+    date: "Jan 2025 - Jan 2025",
+    description:
+      "CreateStackx is a CLI tool that helps you quickly initialize full-stack projects. It allows you to create both frontend (React with Vite) and backend (Node.js with Express) projects with customizable dependencies, enabling you to kickstart your development with minimal setup.",
+    image: "https://github.com/brijesh1802/Projects-Images/blob/main/createstackx.png",
+    tags: ["Node.Js","Commander.Js","Inquirer.Js"],
+    category: "NPM Package",
+    github: "https://github.com/brijesh1802/CreateStackx",
+    webapp: "https://www.npmjs.com/package/create-stackx",
+  },
+  {
+    id: 3,
+    title: "Crypto-CLI",
+    date: "Dec 2025 - Dec 2025",
+    description:
+      "A powerful and intuitive Command-Line Interface (CLI) tool for cryptocurrency enthusiasts and developers. This tool enables users to check real-time cryptocurrency prices, filter them by preferred currencies (e.g., USD, JPY, EUR), and view the top 5 or 20 cryptocurrencies based on their price.",
+    image: "https://github.com/brijesh1802/Projects-Images/blob/main/cryptocli.webp",
+    tags: ["Node.Js","Express.Js","Commander.Js","Inquirer.Js"],
+    category: "NPM Package",
+    github: "https://github.com/brijesh1802/Crypto-CLI",
+    webapp: "https://www.npmjs.com/package/@brijesh18/cryptocli",
+  },
+  {
+    id: 4,
     title: "Steamerzz - SaaS Frontend Website",
     date: "Oct 2024 - Oct 2024",
     description:
@@ -167,7 +203,7 @@ export const projects = [
     webapp: "https://streamerzz-io.vercel.app/",
   },
   {
-    id: 2,
+    id: 5,
     title: "Sudoku Game with Firebase Backend",
     date: "Sep 2024 - Oct 2024",
     description:
@@ -179,7 +215,7 @@ export const projects = [
     webapp: null,
   },
   {
-    id: 3,
+    id: 6,
     title: "Bookstore API",
     date: "Jul 2024 - Jul 2024",
     description:
@@ -191,16 +227,40 @@ export const projects = [
     webapp: null,
   },
   {
-    id: 4,
+    id: 7,
+    title: "WebCodeLab",
+    date: "May 2024 - May 2024",
+    description:
+      "WebCodeLab lets you write and test HTML, CSS, and JavaScript code in real-time with a sleek interface. Perfect for quick prototypes.",
+    image: "https://github.com/brijesh1802/Projects-Images/blob/main/webcodelab.png", 
+    tags: ["HTML", "CSS", "Javascript"],
+    category: "backend development",
+    github: "https://github.com/brijesh1802/WebCodeLab",
+    webapp: null,
+  },
+  {
+    id: 8,
     title: "Contact Management API",
     date: "Feb 2024 - Feb 2024",
     description:
       "Developed a RESTful API for managing contacts with features like adding, updating, deleting, and viewing contact information. Implemented authentication and authorization using JWT and ensured secure handling of user data. Used MongoDB for database management and Node.js with Express for API development.",
     image: "https://github.com/brijesh1802/Contacts-Management/blob/master/contact.jpg?raw=true", 
     tags: ["Node.js", "Express.js", "MongoDB", "JWT", "API Integration"],
-    category: "backend development",
+    category: "BackEnd Development",
     github: "https://github.com/brijesh1802/Contacts-Management",
     webapp: null,
+  },
+  {
+    id: 9,
+    title: "Vertica",
+    date: "Oct 2023 - Nov 2023",
+    description:
+      "Vertica is a sleek and responsive shopping frontend, meticulously crafted with HTML, CSS, and JavaScript. Elevate your online shopping experience with its user-friendly design, making it easy to browse and discover your favorite products. With a focus on simplicity and elegance, Vertica brings a seamless and enjoyable shopping journey to users.",
+    image: "https://github.com/brijesh1802/Projects-Images/blob/main/vertica.png", 
+    tags: ["HTML", "CSS", "Javascript"],
+    category: "FrontEnd Development",
+    github: "https://github.com/brijesh1802/Vertica",
+    webapp: "https://brijesh1802.github.io/Vertica/",
   },
 ];
 
